@@ -1,4 +1,4 @@
-package types_test
+package queue_test
 
 import (
 	"testing"
